@@ -10,9 +10,9 @@ Este repositório contém exercícios práticos em Java que estou realizando par
 
 ## 🛠️ Tecnologias utilizadas
 
-- Java 17 (ou a versão que você estiver usando)
-- IDE: IntelliJ IDEA / Eclipse / VSCode
+- Java 21.0.7 
+- IDE: IntelliJ IDEA / Eclipse 
 
 ## ✍️ Autor
 
-Feito por [Seu Nome](https://github.com/seuusuario).
+Feito por [Amanda](https://github.com/AmandaLeopoldoo).
