@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/logica/Estruturas_repetitivas/Estruturas_repetitivas.iml" filepath="$PROJECT_DIR$/logica/Estruturas_repetitivas/Estruturas_repetitivas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logica/estrutura_sequencial/estrutura_sequencial.iml" filepath="$PROJECT_DIR$/logica/estrutura_sequencial/estrutura_sequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logica/exercicio/exercicio.iml" filepath="$PROJECT_DIR$/logica/exercicio/exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-java.iml" filepath="$PROJECT_DIR$/exercicios-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/poo.iml" filepath="$PROJECT_DIR$/poo/poo.iml" />
+    </modules>
+  </component>
+</project>
